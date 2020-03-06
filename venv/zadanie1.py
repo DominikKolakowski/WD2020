@@ -1,3 +1,4 @@
+from math import *
 # a=5
 # b=7
 # c=4
@@ -12,7 +13,27 @@
 # potega = a**b
 # print("Potęga",potega)
 # potega = pow(a,b)
-# print("Potęga",potega)ff
+# print("Potęga",potega)
+
+
+
+
+# print("Podaj dwie liczby")
+# a = int(input())
+# b= int(input())
+# print("Dodawanie",a+b)
+# print("Odejmowanie",a-b)
+# print("Mnożenie",a*b)
+# print("Dzielenie",a/b)
+
+
+#import biblioteki matematycznej
+
+e = exp(e+10)
+print(e)
+print("/",3.55,"/")
+print("/",3.40,"/")
+
 
 
 
