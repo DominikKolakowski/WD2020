@@ -12,7 +12,7 @@
 # potega = a**b
 # print("Potęga",potega)
 # potega = pow(a,b)
-# print("Potęga",potega)
+# print("Potęga",potega)ff
 
 
 
