@@ -185,6 +185,6 @@ def zad2_15():
         print('Nie wprowadziałeś liczby')
 
    #W miejscu X wstaw nr zadania do wywołania
-   # od 1 do 15 BEZ 13
+   # od 1 do 15 BEZ 13 
 
 NrZadania = zad2_15()
