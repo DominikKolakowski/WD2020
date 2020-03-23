@@ -228,8 +228,9 @@ def zad1_16():
     print('Ulubione gry :', len(ulubione_gry))
 
 
-print("Pod spodem proszę zamienić X na nr zadania od 1 do 16")
+    #W miejscu X proszę podać nr zadania 
+    #od 1 do 16 
 
 
-NrZadania = zad1_4()
+NrZadania = zad1_X()
 
